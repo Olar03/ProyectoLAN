@@ -1,12 +1,9 @@
 # INFORME FINAL DEL PROYECTO DE RED
 ## Diseño, implementación y validación de una topología segmentada en Cisco Packet Tracer
 
-**Estudiante:** [Escribe tu nombre]  
-**Matrícula:** [Escribe tu matrícula si aplica]  
-**Asignatura:** [Nombre de la asignatura]  
-**Docente:** [Nombre del docente]  
-**Institución:** [Nombre de la institución]  
-**Fecha:** [Fecha de entrega]  
+**Estudiante:** Victor Oliveros Larrea 
+**Asignatura:** Administracción de redes LAN  
+**Institución:** ITM 
 
 ---
 
